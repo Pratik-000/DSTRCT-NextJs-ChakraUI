@@ -1,1 +1,7 @@
-# DSTRCT-NextJs-ChakraUI
+## env
+PORT
+
+## project setup
+npm install --legacy-peer-deps
+
+npm run dev

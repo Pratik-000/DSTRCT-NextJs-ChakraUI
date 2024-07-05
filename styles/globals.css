@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.flex{
+    display: flex;
+    border: 1px solid #E2E8F0;
+    padding: 3px 6px;
+    border-radius: 25px;
+}
+.chakra-input__left-element {
+    margin-left: 10px;
+    margin-top: 10px !important;
+}
+.css-bx0blc{
+    width: 400px !important;
+}
+.css-1lekzkb{
+    margin-right: 820px !important;
+    font-weight: 700;
+    font-size: 25px;
+}
+.search-bar{
+    color: black !important;
+}
+.gap-4{
+    gap:16px;
+}
+.search-input{
+    padding: 4px 10px;
+    outline: none;
+}
