@@ -4,7 +4,6 @@ module.exports = {
     buildActivity: false,
   },
   images: {
-    formats: [],
     domains: ["images.unsplash.com","s3-alpha-sig.figma.com"],
   },
   experimental: {
