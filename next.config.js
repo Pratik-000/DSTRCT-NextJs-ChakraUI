@@ -5,7 +5,7 @@ module.exports = {
   },
   images: {
     formats: [],
-    domains: [],
+    domains: ["images.unsplash.com","s3-alpha-sig.figma.com"],
   },
   experimental: {
     serverActions: true,
